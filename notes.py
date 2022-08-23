@@ -11,7 +11,7 @@
 #& django yüklemesi
 # pip install django yeni proje için
 #? githubdan clonelanan projeler için
-# pip install requirements.txt
+# pip install -r requirements.txt
 #  pip freeze > requirements.txt(yüklü paketleri txt dosyasına kaydettik)(bunu yapmamızın sebebi prjeyi sunduğumuzda kullanndığımız paketleri göstermesi için)
 
 #& django projesi oluşturma
